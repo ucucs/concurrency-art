@@ -1,4 +1,4 @@
-package com.ucucs;
+package com.ucucs.task;
 
 import lombok.SneakyThrows;
 

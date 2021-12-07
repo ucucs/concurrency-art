@@ -1,4 +1,4 @@
-package com.ucucs;
+package com.ucucs.task;
 
 public class RunableTask implements Runnable {
 

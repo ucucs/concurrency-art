@@ -1,5 +1,6 @@
 package com.ucucs;
 
+import com.ucucs.task.InterruptRunableTask;
 import lombok.SneakyThrows;
 
 public class AppCase04 {
